@@ -9,5 +9,7 @@ Week 1
 <img width="1910" height="1412" alt="image" src="https://github.com/user-attachments/assets/6defe7ff-7ca3-48c5-8003-6c1c2c4c4269" />
 
 Week 2
+
+
 <img width="800" height="450" alt="Website" src="https://github.com/user-attachments/assets/1d1224e7-273b-4e2f-a056-a01b59e0bab1" />
 
