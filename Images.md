@@ -10,5 +10,5 @@ Week 1
 Week 2
 
 
-<img width="800" height="450" alt="Website" src="https://github.com/user-attachments/assets/1d1224e7-273b-4e2f-a056-a01b59e0bab1" />
+<img width="500" height="250" alt="Website" src="https://github.com/user-attachments/assets/1d1224e7-273b-4e2f-a056-a01b59e0bab1" />
 
