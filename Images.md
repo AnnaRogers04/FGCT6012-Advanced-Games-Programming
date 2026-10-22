@@ -12,3 +12,6 @@ Week 2
 
 <img width="500" height="250" alt="Website" src="https://github.com/user-attachments/assets/1d1224e7-273b-4e2f-a056-a01b59e0bab1" />
 
+Week 3 part 1
+
+<img width="800" height="386" alt="Text Based game" src="https://github.com/user-attachments/assets/6d256f2b-d935-4bb3-9785-44566bb1cc0a" />
