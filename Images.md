@@ -15,3 +15,4 @@ Week 2
 Week 3 part 1
 
 <img width="800" height="386" alt="Text Based game" src="https://github.com/user-attachments/assets/6d256f2b-d935-4bb3-9785-44566bb1cc0a" />
+<img width="1211" height="801" alt="Flow chart of game" src="https://github.com/user-attachments/assets/dcb242c1-19bc-4276-9113-739a46067996" />
