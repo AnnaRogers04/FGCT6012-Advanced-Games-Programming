@@ -31,7 +31,7 @@ public class TerrainGenerator : MonoBehaviour
     public Color highRockColour = new Color(0.60f, 0.57f, 0.55f);
     public Color snowColour = Color.white;
 
-    bool dirty = true;
+   [HideInInspector] public bool dirty = true;
     Mesh mesh;
     Texture2D tex;
 
