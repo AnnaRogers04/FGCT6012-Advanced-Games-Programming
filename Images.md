@@ -21,5 +21,6 @@ Week 3 part 1
 
 week 3 part 2
 
-<img width="800" height="450" alt="Generation heightmap" src="https://github.com/user-attachments/assets/9cb6eff5-88d9-4a18-bfb1-639e145b404a" />
-<img width="800" height="450" alt="procedural system" src="https://github.com/user-attachments/assets/1280a1bd-7bb6-4672-813e-a95df68a70f5" />
+<img width="800" height="450" alt="Terrain Generation" src="https://github.com/user-attachments/assets/1773304b-1536-464f-bfe3-ccb786a80a81" />
+
+
