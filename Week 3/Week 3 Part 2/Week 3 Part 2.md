@@ -29,3 +29,7 @@ I also think the water could look better. At the moment it is just the land flat
 The slider panel is simple but it does the job. I could add more sliders to it, like the height bands, so more of the system can be changed in the build.
 
 Overall I'm happy with how it turned out and I think it shows what a procedural system can do. If I had more time I would carry on and make it look more realistic.
+
+## Decleration
+
+Claude AI was used to help me create some of the code for the system.
