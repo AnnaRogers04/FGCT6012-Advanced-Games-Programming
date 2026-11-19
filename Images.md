@@ -29,3 +29,8 @@ Week 4
 
 <img width="800" height="450" alt="Survey" src="https://github.com/user-attachments/assets/2094d489-77e9-4770-b7eb-9835e06dfa70" />
 <img width="2870" height="1421" alt="Screenshot 2026-11-12 210837" src="https://github.com/user-attachments/assets/53ed9136-042f-498b-a6d9-65616ff93a64" />
+
+
+week 5
+<img width="1914" height="1026" alt="Screenshot 2026-11-19 234304" src="https://github.com/user-attachments/assets/6d51c372-b59b-4187-b0de-4af056b36d3a" />
+<img width="800" height="450" alt="Parallel processing" src="https://github.com/user-attachments/assets/a4f8d185-f2c3-473d-aeb0-8aa2813ebb6e" />
