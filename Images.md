@@ -1,6 +1,4 @@
 
-
-
 Week 1
 
 <img width="500" height="250" alt="Gameplay (1)" src="https://github.com/user-attachments/assets/2deea0ae-9db5-490b-9ec0-e077c8d26f36" />
@@ -10,7 +8,6 @@ Week 1
 
 
 Week 2
-
 
 <img width="500" height="250" alt="Website" src="https://github.com/user-attachments/assets/1d1224e7-273b-4e2f-a056-a01b59e0bab1" />
 
@@ -34,3 +31,8 @@ Week 4
 week 5
 <img width="1914" height="1026" alt="Screenshot 2026-11-19 234304" src="https://github.com/user-attachments/assets/6d51c372-b59b-4187-b0de-4af056b36d3a" />
 <img width="800" height="450" alt="Parallel processing" src="https://github.com/user-attachments/assets/a4f8d185-f2c3-473d-aeb0-8aa2813ebb6e" />
+
+
+
+
+
